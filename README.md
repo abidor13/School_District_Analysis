@@ -68,10 +68,11 @@
 ![THS_NaN_performance](https://user-images.githubusercontent.com/106851167/178164764-f12f3d36-c126-4c6f-a912-b724b150492b.PNG)
 
 ## How does replacing the ninth-grade scores affect the following:
-	Math and reading scores by grade
-	Scores by school spending
-	Scores by school size
-	Scores by school type
+* Math and reading scores by grade
+* Scores by school spending
+* Scores by school size
+* Scores by school type
+
 ### THS overall passing percentage improved back up to %90.63 once we only considered scores for 10th through 12th grades. New results below,
 
 * % Passing Math increased from 66.9 to 93.2
