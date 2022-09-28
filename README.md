@@ -85,7 +85,7 @@
 
 ### School District Analysis Summary:
 
-### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+#### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 #### Once we replaced all Math and Reading scores for 9th grade with NaN values, we noticed changes either for the school summary or district', even though they were minimal in some categories, but once we removed 9th grades scores' from the analysis, we noticed that
 
