@@ -3,9 +3,9 @@
 ## Project Overview:
 
 #### Maria, who is a Chief Data Scientist for a city school district is responsible for analyzing information she gathered from different sources and in different formats. Maria is asked to prepare all standardized test data for analysis, reporting, and presentation to provide insights about performance trends and patterns. These insights will be used to inform discussions and decisions at the school and district levels. 
-### In this module we are asked to help Maria analyze data on student funding and students' test scores. Various information is availabe to us from each school, such as students grades, math scores, reading scores, schools sizes', etc.. 
-### Our task is to go through the data, analyze it and help explain if there are any trends impacting the schools' performances. Our results will help the schools better understand their budgets and priorities moving forward.
-### Once we finished our analysis, we were informed that some of the information initially provided shows evidence of academic dishonety, so we were asked to remove and not consider the math and reading scores for a specific high schoo, "Thomas High School", and keep the rest of the data intact.
+#### In this module we are asked to help Maria analyze data on student funding and students' test scores. Various information is availabe to us from each school, such as students grades, math scores, reading scores, schools sizes', etc.. 
+#### Our task is to go through the data, analyze it and help explain if there are any trends impacting the schools' performances. Our results will help the schools better understand their budgets and priorities moving forward.
+#### Once we finished our analysis, we were informed that some of the information initially provided shows evidence of academic dishonety, so we were asked to remove and not consider the math and reading scores for a specific high schoo, "Thomas High School", and keep the rest of the data intact.
 
 
 ## School District Analysis Results:
